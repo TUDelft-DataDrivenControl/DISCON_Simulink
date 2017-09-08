@@ -1,4 +1,4 @@
-External Controller design for GH Bladed.
+External Controller design for GH Bladed and FASTv8 (Bladed interface).
 
 Contents:
 NREL_5MW_CPC.prj/prx		GH Bladed project of a 5MW turbine
