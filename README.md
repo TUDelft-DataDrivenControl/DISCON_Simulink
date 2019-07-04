@@ -1,11 +1,12 @@
-# External Controller design for GH Bladed and OpenFAST (Bladed interface).
+# External Controller design for GH Bladed and OpenFAST (Bladed interface)
 
 ## Contents
-###Folder -- Bladed_NREL5MW_model:
+
+### Folder -- Bladed_NREL5MW_model:
 NREL_5MW_CPC.prj/prx        GH Bladed project of a 5MW turbine
 wind012.wnd                 Sample 12 m/s turbulent wind file (Bladed)
 
-###Folder -- Simulink_32bit:
+### Folder -- Simulink_32bit:
 Refer to README.txt file in the folder (Credits and thanks to J. Butterworth, Envision Energy)
 
 ### Folder -- Simulink_64bit:
@@ -46,6 +47,7 @@ Delft Center of Systems and Control
 Delft University of Technology
 
 Credits to:
+
 Ivo Houtzager
 Delft Center of Systems and Control
 Delft University of Technology
