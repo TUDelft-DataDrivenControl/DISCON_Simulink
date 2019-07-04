@@ -5,7 +5,7 @@ NREL_5MW_CPC.prj/prx        GH Bladed project of a 5MW turbine
 wind012.wnd                 Sample 12 m/s turbulent wind file (Bladed)
 
 Folder -- Simulink_32bit:
-Refer to README.txt file in the folder
+Refer to README.txt file in the folder (Credits and thanks to J. Butterworth, Envision Energy)
 
 Folder -- Simulink_64bit:
 DISCON_Empty.slx            Empty controller file, including all available inputs and outputs
