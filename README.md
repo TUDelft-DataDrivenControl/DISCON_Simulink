@@ -3,9 +3,8 @@
 ## Contents
 
 ### Folder -- Bladed_NREL5MW_model:
-NREL_5MW_CPC.prj/prx        GH Bladed project of a 5MW turbine
-
-wind012.wnd                 Sample 12 m/s turbulent wind file (Bladed)
+- NREL_5MW_CPC.prj/prx        GH Bladed project of a 5MW turbine
+- wind012.wnd                 Sample 12 m/s turbulent wind file (Bladed)
 
 ### Folder -- Simulink_32bit:
 Refer to README.txt file in the folder (Credits and thanks to J. Butterworth, Envision Energy)
