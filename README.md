@@ -10,12 +10,12 @@
 Refer to README.txt file in the folder (Credits and thanks to J. Butterworth, Envision Energy)
 
 ### Folder -- Simulink_64bit:
-DISCON_Empty.slx            Empty controller file, including all available inputs and outputs
-DISCON_NREL5MW.slx          Baseline NREL5MW controller for use with Bladed or OpenFAST
-Parameters_NREL5MW.mat      Parameters needed for compilation of the controller
-discon.c                    C file (needed for the generation of DISCON.DLL from a Simulink model)
-discon.tlc                  TLC file (needed for the generation of DISCON.DLL from a Simulink model)
-discon_vc.tmf               TMF file (needed for the generation of DISCON.DLL from a Simulink model)
+- DISCON_Empty.slx            Empty controller file, including all available inputs and outputs
+- DISCON_NREL5MW.slx          Baseline NREL5MW controller for use with Bladed or OpenFAST
+- Parameters_NREL5MW.mat      Parameters needed for compilation of the controller
+- discon.c                    C file (needed for the generation of DISCON.DLL from a Simulink model)
+- discon.tlc                  TLC file (needed for the generation of DISCON.DLL from a Simulink model)
+- discon_vc.tmf               TMF file (needed for the generation of DISCON.DLL from a Simulink model)
 
 ## Requirements (for 64-bit DLL/SO compilation):
 1. GH Bladed
