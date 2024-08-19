@@ -40,6 +40,10 @@ Comments:
 1. Do not change the names of the inputs and outputs blocks in DISCON_xxx.slx
 2. Do not change the name DISCON_xxx.slx to DISCON.slx (all other names are allowed)
 
+## Referencing
+When you use DISCON_Simulink in any publication, please cite the following paper:
+* Mulders, S.P. and Zaaijer, M.B. and Bos, R. and van Wingerden, J.W. "Wind turbine control: open-source software for control education, standardization and compilation". Journal of Physics: Conference Series. Vol. 1452. No. 1. IOP Publishing, 2020. [Link to the paper](https://iopscience.iop.org/article/10.1088/1742-6596/1452/1/012010)
+
 ## References 
 Sebastiaan Mulders
 S.P.Mulders@tudelft.nl
